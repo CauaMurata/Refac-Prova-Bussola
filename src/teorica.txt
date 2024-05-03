@@ -1,0 +1,4 @@
+8 - o loop de eventos é um loop que verifica a fila de de eventos que verifica se um determinado evento foi disparado. 
+O event loop no node é mais performatico pois porque é executado de forma nao bloqueante.
+9 - o v8 compila e executa o javascript para c++ e a biblioteca libuv em c que oferece recursos assincronos. V8 fornece 
+as funcionalidades relacionadas à execução de arquivos e para usar recursos do sistema é usado o libuv.
